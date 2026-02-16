@@ -10,7 +10,7 @@
 - Natural Language Processing (NLP)
 - Multimodal Learning
 
-## Certification
+## Certifications 
 - TOEIC 875 (2025)
 - ADsP (2024)
 - SQLD (2024)
