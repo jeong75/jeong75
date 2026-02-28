@@ -8,7 +8,6 @@
 - Optimization-driven decision systems
 - Machine Learning
 - Natural Language Processing (NLP)
-- Multimodal Learning
 
 ## Certifications 
 - TOEIC 875 (2025)
